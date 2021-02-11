@@ -1,0 +1,32 @@
+#color {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 7px 31px;
+    border: 1px solid #a12727;
+    border-radius: 8px;
+    background: black;
+    font: normal normal bold 17px arial;
+    color: #ffffff;
+    text-decoration: none;
+}
+#color:hover,
+#color:focus {
+    background: blue;
+ 
+    color: #ffffff;
+    text-decoration: none;
+}
+#color:active {
+    background: blue;
+
+}
+
+#fuente{
+    background: green;
+    border-radius: 8px;
+    padding:       7px 31px;
+    color:         #660000;
+    display:       inline-block;
+    text-align:    center;
+}
